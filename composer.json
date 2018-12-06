@@ -1,6 +1,6 @@
 {
-  "name": "worldline/sips-payment-sdk",
-  "description": "This library simplifies the use of Sips 2.0, the e-payments API.",
+  "name": "vjee/sips-payment-sdk",
+  "description": "(FORK of worldline/sips-payment-sdk) This library simplifies the use of Sips 2.0, the e-payments API.",
   "keywords": [
     "Sips",
     "Worldline",
